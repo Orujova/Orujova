@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Orujova Narmin</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Web Developer</h3>
 <img align="right" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="coding">
 
 
