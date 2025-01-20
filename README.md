@@ -8,7 +8,7 @@
 
 - 🌍  I'm based in Baku city
 
-- 🌱 I’m currently learning **I'm learning Node.js**
+- 🌱 I’m currently learning **I'm learning **
 
 - 📫 How to reach me **nerminorucova2004@gmail.com**
 
