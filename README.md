@@ -8,7 +8,7 @@
 
 - 🎓  MSc student in **Data Science & AI** at UFAZ
 
-- 💼  Digital Transformation Specialist at **Almet Holding** 
+- 💼  Senior Digital Transformation Specialist at **Almet Holding** 
 
 - 🌱  I'm currently learning **Data Science & AI**
 
