@@ -8,7 +8,7 @@
 
 - 🎓  MSc student in **Data Science & AI** at UFAZ
 
-- 💼  Digital Transformation Specialist at **Almet Holding** — built a full enterprise HRIS platform [myalmet.com](https://myalmet.com)
+- 💼  Digital Transformation Specialist at **Almet Holding** 
 
 - 🌱  I'm currently learning **Data Science & AI**
 
