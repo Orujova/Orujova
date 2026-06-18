@@ -8,8 +8,6 @@
 
 - 🎓  MSc student in **Data Science & AI** at UFAZ
 
-- 💼  Senior Digital Transformation Specialist at **Almet Holding** 
-
 - 🌱  I'm currently learning **Data Science & AI**
 
 - 📫  How to reach me: **nerminorucova2004@gmail.com**
